@@ -82,15 +82,15 @@
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Murilo-Gotardo&layout=compact&langs_count=8&theme=github_dark&hide_border=true"/>
-    <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Murilo-Gotardo&layout=compact&langs_count=8&hide_border=true" alt="Top Languages"/>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=murilog-p&layout=compact&langs_count=8&theme=github_dark&hide_border=true"/>
+    <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=murilog-p&layout=compact&langs_count=8&hide_border=true" alt="Top Languages"/>
   </picture>
 </div>
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=Murilo-Gotardo&theme=github-dark-blue&hide_border=true"/>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Murilo-Gotardo&hide_border=true" alt="GitHub Streak"/>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=murilog-p&theme=github-dark-blue&hide_border=true"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=murilog-p&hide_border=true" alt="GitHub Streak"/>
   </picture>
 </div>
 
@@ -98,12 +98,12 @@
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Murilo-Gotardo&theme=github_dark"/>
-    <img height="170em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Murilo-Gotardo" alt="Repos per Language"/>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=murilog-p&theme=github_dark"/>
+    <img height="170em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=murilog-p" alt="Repos per Language"/>
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Murilo-Gotardo&theme=github_dark"/>
-    <img height="170em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Murilo-Gotardo" alt="Most Commit Language"/>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=murilog-p&theme=github_dark"/>
+    <img height="170em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=murilog-p" alt="Most Commit Language"/>
   </picture>
 </div>
 
